@@ -4,8 +4,8 @@ This preloader created by [VMV.one](https://vmv.one)
 
 ## Click to show preview
 
-- [Preview based CDN](https://cdn.jsdelivr.net/gh/patronJS/argentum_com@1.0/dist/index2.js)
-- [Preview include all needed code](https://cdn.jsdelivr.net/gh/patronJS/argentum_com@1.0/dist/index1.js)
+- [Preview based CDN](https://patronJS.github.io/vmv-testt_com/demo/demo-preview-cdn.html)
+- [Preview include all needed code](https://patronJS.github.io/vmv-testt_com/demo/demo-preview-full.html)
 
 ## Help
 
